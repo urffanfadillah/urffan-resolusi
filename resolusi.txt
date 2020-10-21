@@ -1,6 +1,7 @@
 # Resolusi pribadi tahun 2020
 - Menjadi fullstack developer dengan JavaScript
   - Belajar Express JS
-- Belajar framework CSS Bootstrap
+  - Belajar Vue JS
+- Belajar framework CSS Tailwind
 - Kolaborasi dengan developer lain
 - Membuat ebook pertama
