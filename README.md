@@ -1,0 +1,2 @@
+# urffan-resolusi
+Resolusi pribadi 
